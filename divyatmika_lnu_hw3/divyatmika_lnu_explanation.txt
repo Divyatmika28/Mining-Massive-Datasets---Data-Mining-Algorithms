@@ -1,0 +1,3 @@
+Item based with LSH is more accuracte (lower rmse) and faster than item based with pearson .
+LSH increases the accuracy by grouping similar items into same buckets with high probability. 
+LSH increases the speed by reducing the dimensonality while preserving the difference. 
